@@ -16,3 +16,4 @@ Note: Connect battery to power up OSD. USB power will probably not be enough.
 
 * Bit more details and examples: https://bflogo.ekezet.com/static/help.html
 * Logo replacer tool: https://bflogo.ekezet.com/ (this is not needed when you use default font)
+* Me, [@radimklaska](https://github.com/radimklaska) :)
