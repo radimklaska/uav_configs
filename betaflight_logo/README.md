@@ -12,6 +12,13 @@ Note: Connect battery to power up OSD. USB power will probably not be enough.
 * must use white and black colors only
 * green areas will be transparent on the OSD
 
+## Tools
+
+I don't usually work with graphic software and I don't wan't to install anything - I managed to create some of those logos by using only online tools:
+
+* https://www.photo-kako.com/en/shade.cgi - Will convert image to strictly black and white, no shading.
+* https://www.photopea.com/ - Great free online image editor.
+
 ## Credits
 
 * Bit more details and examples: https://bflogo.ekezet.com/static/help.html
