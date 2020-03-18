@@ -1,5 +1,7 @@
 # Custom Betaflight startup logos
 
+[![Betaflight startup logo (Lukdydron, TBS, Drupal) Demo](https://img.youtube.com/vi/hC_pm5EW7nI/0.jpg)](https://www.youtube.com/watch?v=hC_pm5EW7nI)
+
 Use Font manager in Betaflight Configurator in the OSD tab to upload custom logo.
 
 Note: Connect battery to power up OSD. USB power will probably not be enough.
